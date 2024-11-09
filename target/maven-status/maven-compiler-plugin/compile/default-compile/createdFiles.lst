@@ -1,0 +1,7 @@
+com\mycompany\factorypattern\Bicyclette.class
+com\mycompany\factorypattern\Bus.class
+com\mycompany\factorypattern\Vehicule.class
+com\mycompany\factorypattern\VehiculeFactory.class
+com\mycompany\factorypattern\Voiture.class
+com\mycompany\factorypattern\Main.class
+com\mycompany\factorypattern\Factorypattern.class
